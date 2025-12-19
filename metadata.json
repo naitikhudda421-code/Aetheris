@@ -1,0 +1,8 @@
+{
+  "name": "Aetheris",
+  "description": "A cutting-edge multimodal intelligence platform powered by advanced neural models, featuring real-time reasoning and digital grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
